@@ -91,4 +91,4 @@ Console.WriteLine(degisken.Split(' ')[1]);
 
 Console.WriteLine(degisken.Substring(4));
 
-Console.WriteLine(degisken.Substring(4,6));```
+Console.WriteLine(degisken.Substring(4,6));
