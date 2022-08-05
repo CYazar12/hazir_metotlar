@@ -4,7 +4,7 @@ www.patika.dev
 
 
 
-´´´string degisken = "Dersimiz CSharp, Hoşgeldiniz";
+```string degisken = "Dersimiz CSharp, Hoşgeldiniz";
 
 string degisken2 = "dersimiz CSharp, Hoşgeldiniz";
 
@@ -91,4 +91,4 @@ Console.WriteLine(degisken.Split(' ')[1]);
 
 Console.WriteLine(degisken.Substring(4));
 
-Console.WriteLine(degisken.Substring(4,6));´´´
+Console.WriteLine(degisken.Substring(4,6));```
