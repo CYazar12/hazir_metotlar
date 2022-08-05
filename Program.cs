@@ -1,10 +1,4 @@
-www.patika.dev
-
-# Hazir Metotlar
-
-
-
-```internal class Program
+﻿internal class Program
 {
     private static void Main(string[] args)
     {
@@ -63,4 +57,23 @@ Console.WriteLine(degisken.Split(' ')[1]);// bosluklara göre ayir ve diziye ata
 
 //Substring;
 Console.WriteLine(degisken.Substring(4));//4.indexten basliyarak sona kadar tüm karakterleri getir
-Console.WriteLine(degisken.Substring(4,6));// 4.indexten Basliyarak 6 karakter getirir.```
+Console.WriteLine(degisken.Substring(4,6));// 4.indexten Basliyarak 6 karakter getirir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+}
